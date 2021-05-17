@@ -1,0 +1,36 @@
+body {
+  background: #edf7ce;
+}
+
+h1 {
+  text-align: right;
+}
+
+h1 {
+  text-align: left;
+}
+
+li {
+  list-style-type: none;
+}
+
+.special {
+  color: brown;
+  font-weight: bold;
+}
+
+li strong {
+  background: green;
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}

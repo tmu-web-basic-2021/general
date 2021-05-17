@@ -1,0 +1,41 @@
+* {
+  /* border: 1px solid blue; */
+}
+
+body {
+  margin: 0;
+  background: #ddd;
+}
+
+header {
+  margin: 0;
+  padding: 3em;
+  background: orange;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav {
+  background: #eee;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+main {
+  width: 900px;
+  margin: auto;
+}
+
+main > div {
+  text-align: center;
+}
+
+.photo {
+  width: 200px;
+  margin: 20px;
+}

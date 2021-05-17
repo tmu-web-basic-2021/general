@@ -1,0 +1,18 @@
+* {
+  border: 1px solid blue;
+  box-sizing: border-box;
+}
+
+main {
+  width: 1200px;
+  margin: auto;
+}
+
+main > div {
+  text-align: center;
+}
+
+.photo {
+  width: 280px;
+  margin: 20px;
+}
